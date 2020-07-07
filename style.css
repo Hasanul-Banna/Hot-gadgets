@@ -1,0 +1,9 @@
+body {
+    font-family: 'Merienda One';
+}
+.navbar-brand {
+    padding-left: 30px;
+}
+.navbar-nav {
+    padding: 0 30px;
+}
